@@ -29,4 +29,4 @@ I mean, I wouldn't recommend it. But sure! Why not? here are the instructions:
 - WanWan09 (a friend of mine) - the app icon
 
 ## Screenshot
-![Screenshot of the program](screenshot.png?raw=true)
+![Screenshot of the program](https://raw.githubusercontent.com/j4y-boi/bgChange/refs/heads/main/screenshot.png)
